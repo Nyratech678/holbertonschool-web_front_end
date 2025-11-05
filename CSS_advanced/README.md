@@ -1,0 +1,1 @@
+and i decline the fact who we are dead we are damned for eternity and incapable to evoluting
