@@ -207,6 +207,19 @@ padding: var(--section-body-padding);
   font-weight: var(--font-weight-bold);
   margin: var(--section-tagline-margin);
 }
+
+.section-hero {
+    background-size: 90rem auto;
+}
+
+.section-hero .section-title {
+    margin-bottom: 5rem;
+}
+
+.section-hero .section-inner {
+    padding: 40rem 2rem 0;
+}
+
 ul.row {
   margin: 0;
   padding: 0;
